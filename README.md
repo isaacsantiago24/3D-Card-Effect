@@ -4,4 +4,4 @@
 
 ![](images/main.jpg)
 ![](images/animation1.jpg)
-![](images/animation2.jpg)
+![](images/animation2.png)
